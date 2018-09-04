@@ -1,2 +1,8 @@
-# yAuth
-To jest wersja darmowa więc jest kilka błędów! Wersje bez błędów + /changepassword + /remeber! Zakupisz na DISCORD: YemsiakEXE#7601
+# yAuth plugin na twoj serwer
+To jest wersja darmowa więc będzie kilka błędów!
+Wersje z dodatkami takimi jak:
+- /changepassword
+- /remember
+Oczywiście wersja płatna nie zawiera błędów!
+Plugin zakupisz na DISCORD: YamesiakEXE#7601
+<li> Masz jakiś problem, pytanie? Pisz na email: kontakt.javer01@gmail.com</li>
